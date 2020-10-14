@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601458619 source:/Users/mariandvoracek/Documents/Github/Digital-electronics-2/Labs/02-leds/02/fuse.c
+	<avr/io.h>
+
+1602018982 source:/Users/mariandvoracek/Documents/Github/Digital-electronics-2/Labs/02-leds/02/main.c
+	<util/delay.h>
+	<avr/io.h>
+
+1601458619 source:/Users/mariandvoracek/Documents/AVR/02-leds/02/fuse.c
+	<avr/io.h>
+
+1602081507 source:/Users/mariandvoracek/Documents/AVR/02-leds/02/main.c
+	<util/delay.h>
+	<avr/io.h>
+

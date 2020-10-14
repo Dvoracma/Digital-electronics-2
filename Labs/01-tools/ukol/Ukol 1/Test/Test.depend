@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1601336046 source:/Users/mariandvoracek/Documents/AVR/Test/fuse.c
+	<avr/io.h>
+

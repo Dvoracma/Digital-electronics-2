@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1602062010 source:/Users/mariandvoracek/Documents/Github/Digital-electronics-2/Labs/03-gpio/gpio/fuse.c
+	<avr/io.h>
+
+1602103408 source:/Users/mariandvoracek/Documents/Github/Digital-electronics-2/Labs/03-gpio/gpio/gpio.c
+	"gpio.h"
+
+1602097686 /Users/mariandvoracek/Documents/Github/Digital-electronics-2/Labs/03-gpio/gpio/gpio.h
+	<avr/io.h>
+
+1602106580 source:/Users/mariandvoracek/Documents/Github/Digital-electronics-2/Labs/03-gpio/gpio/main.c
+	<util/delay.h>
+	<avr/io.h>
+	"gpio.h"
+
+1602062010 source:/Users/mariandvoracek/Documents/AVR/Ukol 3/gpio/fuse.c
+	<avr/io.h>
+
+1602228086 source:/Users/mariandvoracek/Documents/AVR/Ukol 3/gpio/gpio.c
+	"gpio.h"
+
+1602608891 /Users/mariandvoracek/Documents/AVR/Ukol 3/gpio/gpio.h
+	<avr/io.h>
+
+1602227862 source:/Users/mariandvoracek/Documents/AVR/Ukol 3/gpio/main.c
+	<util/delay.h>
+	<avr/io.h>
+	"gpio.h"
+
